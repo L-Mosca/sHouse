@@ -4,11 +4,11 @@ Sistema de automação residencial integrado com aplicação mobile e inteligên
 *****************************************************************************************************************************************************************
 ## Paths do Projeto
 
-######Hardware -> Contem tudo que engloba as partes físicas do projeto, ou seja, planta baixa da maquete e diagramas elétricos e eletrônicos dos circuitos executados.
+###### Hardware -> Contem tudo que engloba as partes físicas do projeto, ou seja, planta baixa da maquete e diagramas elétricos e eletrônicos dos circuitos executados.
 
-######Software -> Contempla os fluxogramas das placas embarcadas, assim como seus respectivos softwares, configurados em c++. 
+###### Software -> Contempla os fluxogramas das placas embarcadas, assim como seus respectivos softwares, configurados em c++. 
 
-######Monografia -> Contem a parte monográfica e documental do projeto, com o intúito de suprir as necessidades acadêmicas de um trabalho de graduação
+###### Monografia -> Contem a parte monográfica e documental do projeto, com o intúito de suprir as necessidades acadêmicas de um trabalho de graduação
 *****************************************************************************************************************************************************************
 
 ## Introdução
