@@ -126,8 +126,8 @@ void relay(uint8_t brightness);
 //===============================================================================================================================
 
 // --- Declaração de Constantes ---
-const char* ssid = "Mosca1";                                          // Armazena o nome  da rede wifi em 'ssid'
-const char* password = "G3L277U5BWSP8";                               // Armazena a senha da rede wifi em 'password'
+const char* ssid = "Nome da sua rede wifi";                           // Armazena o nome  da rede wifi em 'ssid'
+const char* password = "Senha da sua rede wifi";                      // Armazena a senha da rede wifi em 'password'
 
 //===============================================================================================================================
 
