@@ -1,6 +1,12 @@
 # sHouse
 Sistema de automação residencial integrado com aplicação mobile e inteligência artificial
 
+*****************************************************************************************************************************************************************
+Hardware -> Contem tudo que engloba as partes físicas do projeto, ou seja, planta baixa da maquete e diagramas elétricos e eletrônicos dos circuitos executados.*
+Software -> Contempla os fluxogramas das placas embarcadas, assim como seus respectivos softwares, configurados em c++.                                         *
+*****************************************************************************************************************************************************************
+
+
 Esse projeto se trata da implementação de um sistema de automação residencial comtemplando apenas circuitos de iluminação. Estes, por sua vez, serão comandados por: teclas pulsadoras, aplicativo mobile e inteligência artificial.
 
 As teclas pulsadoras são importantes, porque elas substituiram os interruptores convencionas que normalmente temos instalados em nossas casas.
@@ -12,7 +18,7 @@ Para o aplicativo mobile e a inteligência artificial, será usada a aplicação
 Alguns esclarecimentos:
 
 Por que realizar a automação apenas de lâmpadas?
-  - Este projeto contempla apenas circuitos de iluminação, porque esta é a base da automação residencial, assim, a partir disso, este trabalho pode se expandir para qualquer rumo, desde cortinas e persianas a até TVs e ar-condicionados.
+  - Este projeto contempla apenas circuitos de iluminação, porque esta é a base da automação residencial, assim, a partir disso, este trabalho pode se expandir para qualquer rumo, desde cortinas e persianas a até TVs e aparelhos de ar-condicionado.
 
 Por que utilizar teclas pulsadoras?
   - A idéia de substituir todos os interruptores convencionais por teclas pulsadoras, vem do ideal de realizar um sistema de automação completo, assim os pulsadores comtemplam a parte física da casa. Outro fator importante de se citar é que dessa forma, a automação seja simples e intuitiva para dismistificar o pré-conceito que a maioria das pessoas possuem de encarar a técnologia como algo complexo e difícil de se lidar.
