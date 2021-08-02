@@ -2,8 +2,9 @@
 Sistema de automação residencial integrado com aplicação mobile e inteligência artificial
 
 *****************************************************************************************************************************************************************
-Hardware -> Contem tudo que engloba as partes físicas do projeto, ou seja, planta baixa da maquete e diagramas elétricos e eletrônicos dos circuitos executados.*
-Software -> Contempla os fluxogramas das placas embarcadas, assim como seus respectivos softwares, configurados em c++.                                         *
+Hardware -> Contem tudo que engloba as partes físicas do projeto, ou seja, planta baixa da maquete e diagramas elétricos e eletrônicos dos circuitos executados.
+
+Software -> Contempla os fluxogramas das placas embarcadas, assim como seus respectivos softwares, configurados em c++.                                         
 *****************************************************************************************************************************************************************
 
 
