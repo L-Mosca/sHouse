@@ -4,17 +4,23 @@ Sistema de automação residencial integrado com aplicação mobile e inteligên
 *****************************************************************************************************************************************************************
 ## Paths do Projeto
 
-Hardware -> Contem tudo que engloba as partes físicas do projeto, ou seja, planta baixa da maquete e diagramas elétricos e eletrônicos dos circuitos executados.
+######Hardware -> Contem tudo que engloba as partes físicas do projeto, ou seja, planta baixa da maquete e diagramas elétricos e eletrônicos dos circuitos executados.
 
-Software -> Contempla os fluxogramas das placas embarcadas, assim como seus respectivos softwares, configurados em c++.                                         
+######Software -> Contempla os fluxogramas das placas embarcadas, assim como seus respectivos softwares, configurados em c++. 
+
+######Monografia -> Contem a parte monográfica e documental do projeto, com o intúito de suprir as necessidades acadêmicas de um trabalho de graduação
 *****************************************************************************************************************************************************************
 
+## Introdução
 
 Esse projeto se trata da implementação de um sistema de automação residencial comtemplando apenas circuitos de iluminação. Estes, por sua vez, serão comandados por: teclas pulsadoras, aplicativo mobile e inteligência artificial.
 
 As teclas pulsadoras são importantes, porque elas substituiram os interruptores convencionas que normalmente temos instalados em nossas casas.
 
 Para o aplicativo mobile e a inteligência artificial, será usada a aplicação: "Amazon Alexa". Esta é gratuita e pode ser instaladas em dispositivos android e ios.
+
+obs: Este é o meu trabalho de graduação para a FATEC de Indaiatuba SP em análise e desenvolvimento de sistemas, então existem alguns documentos que possuem o singular propósito
+de suprir necesidades acadêmicas do projeto.
 
 *****************************************************************************************************************************************************************
 
