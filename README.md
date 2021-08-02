@@ -24,7 +24,7 @@ de suprir necesidades acadêmicas do projeto.
 
 *****************************************************************************************************************************************************************
 
-## Alguns esclarecimentos:
+## Alguns Esclarecimentos:
 
 Por que realizar a automação apenas de lâmpadas?
   - Este projeto contempla apenas circuitos de iluminação, porque esta é a base da automação residencial, assim, a partir disso, este trabalho pode se expandir para qualquer rumo, desde cortinas e persianas a até TVs e aparelhos de ar-condicionado.
@@ -40,7 +40,7 @@ Por que utilizar o aplicativo "Amazon Alexa"?
 
 ## Instruções:
 
-Este documento tem o objetivo de explanar todos os componenetes utilizados e a arquitetura da rede utilizada para comunicação.
+Esta seção tem o objetivo de explanar todos os componenetes utilizados e a arquitetura da rede utilizada para comunicação.
 
 Primeiramente é importante salientar que esse projeto foi prototipado em uma maquete, a qual comtempla 39 LEDs que por sua vez constituem 27 circuitos de iluminação distribuídos
 entre os ambientes. Vale destacar que como isto é um protótipo todos os 39 LEDs foram conectados em saídas independentes do microcontrolador, isso foi feito para que varios LEDs sejam conectadas a uma única saída do MCU que por sinal possui uma grande limitação quantitativa a respeito da corrente elétrica provida pela mesma.
