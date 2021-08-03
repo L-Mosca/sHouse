@@ -4,11 +4,14 @@ Sistema de automação residencial integrado com aplicação mobile e inteligên
 *****************************************************************************************************************************************************************
 ## Paths do Projeto
 
-Hardware -> Contem tudo que engloba as partes físicas do projeto, ou seja, planta baixa da maquete e diagramas elétricos e eletrônicos dos circuitos executados.
+###### Hardware -> Contem tudo que engloba as partes físicas do projeto, ou seja, planta baixa da maquete e diagramas elétricos e eletrônicos dos circuitos executados.
 
-Software -> Contempla os fluxogramas das placas embarcadas, assim como seus respectivos softwares, configurados em c++.                                         
+###### Software -> Contempla os fluxogramas das placas embarcadas, assim como seus respectivos softwares, configurados em c++. 
+
+###### Monografia -> Contem a parte monográfica e documental do projeto, com o intúito de suprir as necessidades acadêmicas de um trabalho de graduação
 *****************************************************************************************************************************************************************
 
+## Introdução
 
 Esse projeto se trata da implementação de um sistema de automação residencial comtemplando apenas circuitos de iluminação. Estes, por sua vez, serão comandados por: teclas pulsadoras, aplicativo mobile e inteligência artificial.
 
@@ -16,9 +19,12 @@ As teclas pulsadoras são importantes, porque elas substituiram os interruptores
 
 Para o aplicativo mobile e a inteligência artificial, será usada a aplicação: "Amazon Alexa". Esta é gratuita e pode ser instaladas em dispositivos android e ios.
 
+obs: Este é o meu trabalho de graduação para a FATEC de Indaiatuba SP em análise e desenvolvimento de sistemas, então existem alguns documentos que possuem o singular propósito
+de suprir necesidades acadêmicas do projeto.
+
 *****************************************************************************************************************************************************************
 
-## Alguns esclarecimentos:
+## Alguns Esclarecimentos:
 
 Por que realizar a automação apenas de lâmpadas?
   - Este projeto contempla apenas circuitos de iluminação, porque esta é a base da automação residencial, assim, a partir disso, este trabalho pode se expandir para qualquer rumo, desde cortinas e persianas a até TVs e aparelhos de ar-condicionado.
@@ -34,7 +40,7 @@ Por que utilizar o aplicativo "Amazon Alexa"?
 
 ## Instruções:
 
-Este documento tem o objetivo de explanar todos os componenetes utilizados e a arquitetura da rede utilizada para comunicação.
+Esta seção tem o objetivo de explanar todos os componenetes utilizados e a arquitetura da rede utilizada para comunicação.
 
 Primeiramente é importante salientar que esse projeto foi prototipado em uma maquete, a qual comtempla 39 LEDs que por sua vez constituem 27 circuitos de iluminação distribuídos
 entre os ambientes. Vale destacar que como isto é um protótipo todos os 39 LEDs foram conectados em saídas independentes do microcontrolador, isso foi feito para que varios LEDs sejam conectadas a uma única saída do MCU que por sinal possui uma grande limitação quantitativa a respeito da corrente elétrica provida pela mesma.
