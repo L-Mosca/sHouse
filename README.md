@@ -8,7 +8,6 @@ Sistema de automação residencial integrado com aplicação mobile e inteligên
 
 ###### Software -> Contempla os fluxogramas das placas embarcadas, assim como seus respectivos softwares, configurados em c++. 
 
-###### Monografia -> Contem a parte monográfica e documental do projeto, com o intúito de suprir as necessidades acadêmicas de um trabalho de graduação
 *****************************************************************************************************************************************************************
 
 ## Introdução
